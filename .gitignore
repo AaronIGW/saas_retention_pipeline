@@ -1,0 +1,4 @@
+saas_telemetry.db
+data/*.json
+__pycache__/
+*.pyc
